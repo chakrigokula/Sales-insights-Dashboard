@@ -23,4 +23,4 @@ Evaluated customer and product performance.
 Enabled interactive exploration of sales data through filters and slicers.
 
 
-screenshot link 
+screenshot link :https://github.com/chakrigokula/Sales-insights-Dashboard/blob/main/Screenshot%202026-06-30%20180926.png
